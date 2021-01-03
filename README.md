@@ -1,2 +1,2 @@
-# Palindrone_Checker
-A program that checks if a word is palindrone
+# Palindrome_Checker
+A program that checks if a word is palindrome
