@@ -1,5 +1,5 @@
-palindrone = str(input("Enter a word and I'll tell you if it's a Palindrone or not! "))
-if str(palindrone) == str(palindrone) [::-1] :
-  print("This word is a Palindrone!")
+palindrome = str(input("Enter a word and I'll tell you if it's a Palindrome or not! "))
+if str(palindrome) == str(palindrome) [::-1] :
+  print("This word is a Palindrome!")
 else:
-  print("This word is not a Palindrone!")
+  print("This word is not a Palindrome!")
